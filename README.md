@@ -36,4 +36,4 @@ The trained model can be used to detect spam comments on Instagram or similar so
 - Deployment as a web application
 
 ## 👤 Author
-- **Your Name**
+- **Bhavin Sangani**
